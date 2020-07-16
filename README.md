@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning cloud services
 - 👯 I’m looking to collaborate on opensource project using nodejs or vue or react
 - 🤔 I’m looking for help or guideline to learn new technologies
-- 💬 Ask me about Reactjs, vuejs, nodejs
+- 💬 Ask me about Reactjs or any tech related stuff.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nabarajsaha/)
 - 😄 Pronouns: 
 - ⚡ Fun fact: I like to listen songs
