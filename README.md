@@ -1,7 +1,7 @@
 ### Hi I am Nabaraj 👋
 
 
-- 🔭 I’m currently working With Vuejs, nodejs, Reactjs, Mongodb.
+- 🔭 I’m currently working With Vuejs, Node, React, Redux, Vuex, Mongodb.
 - 🌱 I’m currently learning cloud services
 - 👯 I’m looking to collaborate on opensource project using nodejs or vue or react
 - 🤔 I’m looking for help or guideline to learn new technologies
