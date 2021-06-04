@@ -22,4 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj)
 
-![Nabaraj's github stats](https://github-readme-stats.vercel.app/api?username=nabaraj&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=dddddd)
+![Nabaraj's github stats](https://github-readme-stats.vercel.app/api?username=nabaraj&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=dddddd&theme=radical)
