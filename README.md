@@ -2,13 +2,13 @@
 
 
 - 🔭 I’m currently working With VueJS, NodeJS, ReactJS, Redux, Vuex, Mongodb.
-- 🌱 I’m currently learning cloud services
-- 👯 I’m looking to collaborate on opensource project using nodejs or vue or react
-- 🤔 I’m looking for help or guideline to learn new technologies
-- 💬 Ask me about Reactjs or any tech related stuff.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nabarajsaha/)
-<!-- 😄 Pronouns: -->
-- ⚡ Fun fact: I like to listening music
+- 🔭 Currently working with VueJS, NodeJS, ReactJS, Redux, Vuex, and MongoDB.
+- 🌱 Learning cloud services.
+- 👯 Looking to collaborate on open-source projects using NodeJS, Vue, or React.
+- 🤔 Seeking guidance to learn new technologies.
+- 💬 Ask me about ReactJS or any tech-related topics.
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: I enjoy listening to music.
 
 **Languages and Tools:**  
 
