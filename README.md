@@ -1,7 +1,3 @@
-Here's your updated **GitHub Profile README** with your **LinkedIn** and **Portfolio** links added:
-
----
-
 # 👋 Hi, I'm Nabaraj!  
 
 ### 🚀 Frontend Developer | Tech Enthusiast | Open-Source Contributor  
