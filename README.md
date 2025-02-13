@@ -50,5 +50,5 @@ I'm a passionate **frontend developer** with over **12 years of experience** bui
 <!--   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=nabaraj&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br> -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nabaraj?cardType=level&theme=tokyonight&preferLogin=false"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nabaraj?cardType=level&preferLogin=false"/>
 </p>  
