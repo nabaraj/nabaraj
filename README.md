@@ -1,8 +1,8 @@
 <!-- Tech Tag Cloud -->
 <p align="center">
   <img
-    src="https://github-profile-stats-image-nabaraj.vercel.app/api/tag-cloud"
-    alt="Tech Tag Cloud"
+    src="https://github-profile-stats-image-nabaraj.vercel.app/github-banner.png"
+    alt="Github Banner"
     width="700"
   />
 </p>
