@@ -1,7 +1,7 @@
 <!-- Tech Tag Cloud -->
 <p align="center">
   <img
-    src="https://github-profile-stats-image.vercel.app/api/tag-cloud"
+    src="https://github-profile-stats-image-nabaraj.vercel.app/api/tag-cloud"
     alt="Tech Tag Cloud"
     width="700"
   />
@@ -62,7 +62,7 @@ I’m interested in opportunities where I can take ownership of frontend feature
 
 <p align="center">
   <img
-    src="https://github-profile-stats-image.vercel.app/api/github-stats"
+    src="https://github-profile-stats-image-nabaraj.vercel.app/api/github-stats"
     alt="GitHub Stats"
   />
 </p>
