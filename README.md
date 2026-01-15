@@ -43,12 +43,15 @@ I'm a passionate **frontend developer** with over **12 years of experience** bui
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj&layout=compact" alt="Top Languages" />
-<!--   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=nabaraj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br> -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nabaraj?cardType=level&preferLogin=false"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=nabaraj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabaraj&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+  
