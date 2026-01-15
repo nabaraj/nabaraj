@@ -1,6 +1,10 @@
 <!-- Tech Tag Cloud -->
 <p align="center">
-  <img src="https://github-profile-stats-image.vercel.app/api/tag-cloud" alt="Tech Tag Cloud" />
+  <img
+    src="https://github-profile-stats-image.vercel.app/api/tag-cloud"
+    alt="Tech Tag Cloud"
+    width="700"
+  />
 </p>
 
 # 👋 Hi, I'm Nabaraj  
